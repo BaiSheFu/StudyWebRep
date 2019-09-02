@@ -3,7 +3,7 @@ package com.xuecheng.framework.domain.cms.ext;
 import com.xuecheng.framework.domain.cms.CmsPage;
 import lombok.Data;
 import lombok.ToString;
-
+//this is new day
 /**
  * @Author: mrt.
  * @Description:
